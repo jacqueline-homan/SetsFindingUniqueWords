@@ -1,0 +1,5 @@
+/home/jacqueline/Projects/SetsFindingUniqueWords/SetsFindingUniqueWords/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/jacqueline/Projects/SetsFindingUniqueWords/SetsFindingUniqueWords/bin/Debug/SetsFindingUniqueWords.exe.mdb
+/home/jacqueline/Projects/SetsFindingUniqueWords/SetsFindingUniqueWords/bin/Debug/SetsFindingUniqueWords.exe
+/home/jacqueline/Projects/SetsFindingUniqueWords/SetsFindingUniqueWords/obj/x86/Debug/SetsFindingUniqueWords.exe
+/home/jacqueline/Projects/SetsFindingUniqueWords/SetsFindingUniqueWords/obj/x86/Debug/SetsFindingUniqueWords.exe.mdb
